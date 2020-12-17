@@ -10,5 +10,7 @@ char *strcpy(char* src, char* dst) {
 }
 
 /**
+<<<<<<< HEAD
 本地edit
 **/
+
